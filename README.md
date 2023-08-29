@@ -1,1 +1,1 @@
-# Kalibrasi Sensor Garis Otomatis Untuk Robot JEXAPOD
+# Kalibrasi Sensor Garis Otomatis Untuk Robot HEXAPOD
